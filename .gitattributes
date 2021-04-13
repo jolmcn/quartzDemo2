@@ -2,3 +2,12 @@ Content/Audio/OSVI_s1v3.uasset filter=lfs diff=lfs merge=lfs -text
 Content/Audio/GilaStems/AudioFIles/OSVI_s1v3.uasset filter=lfs diff=lfs merge=lfs -text
 Content/Maps/M_QuartzDune.umap filter=lfs diff=lfs merge=lfs -text
 Content/Brushify/Meshes/* filter=lfs diff=lfs merge=lfs -text
+Content/Brushify/Materials/Landscape/Textures/Beach/*.uasset filter=lfs diff=lfs merge=lfs -text
+Content/Brushify/Materials/Landscape/Textures/Craters/*.uasset filter=lfs diff=lfs merge=lfs -text
+Content/Brushify/Materials/Landscape/Textures/Desert/*.uasset filter=lfs diff=lfs merge=lfs -text
+Content/Brushify/Materials/Landscape/Textures/Forest/*.uasset filter=lfs diff=lfs merge=lfs -text
+Content/Brushify/Materials/Landscape/Textures/Grass/*.uasset filter=lfs diff=lfs merge=lfs -text
+Content/Brushify/Materials/Landscape/Textures/Mud/*.uasset filter=lfs diff=lfs merge=lfs -text
+Content/Brushify/Materials/Landscape/Textures/Puddles/*.uasset filter=lfs diff=lfs merge=lfs -text
+Content/Brushify/Materials/Landscape/Textures/Rock/*.uasset filter=lfs diff=lfs merge=lfs -text
+Content/Brushify/Materials/Landscape/Textures/Snow/*.uasset filter=lfs diff=lfs merge=lfs -text
